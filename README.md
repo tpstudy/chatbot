@@ -23,8 +23,8 @@ AI 聊天助手是一个基于 Flask 和 Azure OpenAI 服务的网页应用程�
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/your-username/ai-chat-assistant.git
-   cd ai-chat-assistant
+   git clone https://github.com/tpstudy/chatbot.git
+   cd chatbot
    ```
 
 2. 安装依赖：
@@ -35,7 +35,6 @@ AI 聊天助手是一个基于 Flask 和 Azure OpenAI 服务的网页应用程�
 3. 设置环境变量：
    ```
    export AZURE_OPENAI_KEY=your_azure_openai_key
-   export AZURE_OPENAI_VERSION=your_azure_openai_version
    export AZURE_OPENAI_ENDPOINT=your_azure_openai_endpoint
    ```
 
